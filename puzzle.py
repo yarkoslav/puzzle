@@ -1,6 +1,6 @@
 """
 This module provide some functions to check whether board is good for game
-git repo - https://github.com/yarkoslav/skyscrapers_and_puzzle
+git repo - https://github.com/yarkoslav/puzzle
 """
 
 
