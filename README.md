@@ -1,1 +1,1 @@
-# This repo has a solution of skyscrapers game
+# This repo has a solution of puzzle game
